@@ -8,7 +8,7 @@
   </a>
 </div>
 
-https://komarev.com/ghpvc/umutsaglam
+<img src="https://komarev.com/ghpvc/?username=umutsaglam&style=flat-square&color=blue" alt=""/>
 
 
 ### :hammer_and_wrench: Languages and Tools :
