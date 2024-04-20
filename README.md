@@ -1,6 +1,5 @@
-<center>
 ### Hi there 👋
-</center>
+
 
 
 <div align="center">
