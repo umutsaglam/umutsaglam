@@ -2,7 +2,6 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJ3cWZxNXBwcmNmN2g3dG10cmNrcmJlajZ4MGE2cXZzbW5sYWF4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif" width="100"/>
-</div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/umut-saglam/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
