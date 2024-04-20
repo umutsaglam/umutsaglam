@@ -21,6 +21,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/?username=umutsaglam&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=umutsaglam&style=flat-square&color=blue" alt=""/>
+
+![image title](https://rushter.com/counter.svg)
 </div>
 
 <!--
