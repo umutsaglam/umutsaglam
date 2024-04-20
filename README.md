@@ -1,6 +1,3 @@
-
-<img src="https://komarev.com/ghpvc/?username=umutsaglam&style=flat-square&color=blue" alt=""/>
-
 ### Hi there 👋
 
 
@@ -24,6 +21,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=umutsaglam&theme=shadow-green)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/?username=umutsaglam&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://komarev.com/ghpvc/?username=umutsaglam&style=flat-square&color=blue" alt=""/>
 
 <!--
 **umutsaglam/umutsaglam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
