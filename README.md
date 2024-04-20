@@ -33,7 +33,7 @@
 </tr>
 </table>
 
-
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem56bTFuMmp3Z3l4MWFpNDMzam1ta2hkamhidTNrc2hrZWtoZzZ3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z543HuFdQAmkg/giphy.gif" width="600" height="300"/>
@@ -55,9 +55,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/?username=umutsaglam&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=umutsaglam&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=umutsaglam&left_color=green&right_color=green)
 </div>
 
 <!--
