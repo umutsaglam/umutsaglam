@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=umutsaglam&theme=shadow-green)](https://git.io/streak-stats)
 <!--
 **umutsaglam/umutsaglam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
