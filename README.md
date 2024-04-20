@@ -1,39 +1,3 @@
-<table width="100%" align="center">
-<tr>
-<td align="center">
-<a href="https://umutsaglam.net.tr">
-<strong>Visit my personal website </strong>
-<br />
-<br />
-<br />
-
-<p>
-
-<img alt="Globe" height="80" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif">
-</a>
-</p>
-
-</td>
-
-
-<td align="center">
-<a href="https://open.spotify.com/playlist/7noTgmdMkTTv0WdO7zmCI8?si=3d789ad784464eb3">
-<strong>Listen to cool music</strong>
-<br />
-<br />
-
-
-<p>
-<img height="100" alt="Music" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/music.gif"> 
-</a>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem56bTFuMmp3Z3l4MWFpNDMzam1ta2hkamhidTNrc2hrZWtoZzZ3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z543HuFdQAmkg/giphy.gif" width="600" height="300"/>
 </div>
