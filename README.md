@@ -8,7 +8,7 @@
   </a>
 </div>
 
-https://komarev.com/ghpvc/?umutsaglam
+https://komarev.com/ghpvc/umutsaglam
 
 
 ### :hammer_and_wrench: Languages and Tools :
