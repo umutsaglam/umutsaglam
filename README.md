@@ -12,7 +12,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmkyNHJoN3o3eGl5d25tMWhrZXNzdjV4OTN4cnI4dnBqdGZvMmduaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="600" height="300"/>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
