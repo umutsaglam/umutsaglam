@@ -21,6 +21,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/?username=umutsaglam&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ![image title](https://rushter.com/counter.svg)
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
 </div>
 
 <!--
