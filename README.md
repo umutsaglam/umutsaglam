@@ -10,7 +10,7 @@
 
 <p>
 
-<img alt="Globe" height="80" src="images/globe.gif">
+<img alt="Globe" height="80" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif">
 </a>
 </p>
 
@@ -25,7 +25,7 @@
 
 
 <p>
-<img height="100" alt="Music" src="images/music.gif"> 
+<img height="100" alt="Music" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/music.gif"> 
 </a>
 </p>
 
