@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/fun-meme-hacker-B4dt6rXq6nABilHTYM" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJ3cWZxNXBwcmNmN2g3dG10cmNrcmJlajZ4MGE2cXZzbW5sYWF4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif" width="100"/>
 </div>
 
 
