@@ -20,6 +20,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/?username=umutsaglam&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=umutsaglam&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=umutsaglam&left_color=green&right_color=green)
 </div>
 
