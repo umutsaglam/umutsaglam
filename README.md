@@ -1,3 +1,5 @@
+---
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=17F704&center=true&vCenter=true&random=false&width=435&lines=01001000+01101001+00100001" alt="R3tr0" /></a>
 
 ---
@@ -23,6 +25,8 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/?username=umutsaglam&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 </div>
 
