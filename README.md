@@ -19,15 +19,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: nothing
-- 🌱 I’m currently learning: nothing
-- 👯 I’m looking to collaborate on: nobody
-- 🤔 I’m looking for help with: nothing
-- 💬 Ask me about: dont ask
-- 😄 Pronouns: attack helicopter
-- ⚡ Fun fact: nothing funny
-
-
 
 </div>
 
