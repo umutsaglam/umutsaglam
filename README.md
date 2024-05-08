@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=17F704&center=true&vCenter=true&random=false&width=435&lines=01001000+01101001+00100001" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F716&multiline=true&random=false&width=435&lines=%E2%94%8C%E2%94%80%E2%94%80(r3tr0%E3%89%BFkali)-%5B~%5D;%E2%94%94%E2%94%80%23+whoami++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++;r3tr0" alt="Typing SVG" /></a>
 
 ---
 
